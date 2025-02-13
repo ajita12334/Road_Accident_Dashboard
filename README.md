@@ -38,6 +38,8 @@ Compare trends across different years and factors affecting road safety.
 
 # Screenshots
 
+<img src = "Road_Accident_Dashboard.png">
+
 # Conclusion
 
 This project highlights the power of Excel dashboards in data analysis and visualization. It serves as a useful for understanding road accident trends and making data-driven decisions to improve road safety.
